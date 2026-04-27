@@ -11,7 +11,7 @@
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20activities/Man%20Technologist.png" width="30" /> About Me
 
 ```yaml
-name: Tony Teo
+name: Vo Minh
 location: Vietnam
 current_focus:
   - AI Agents & LLM Architecture
