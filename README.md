@@ -1,8 +1,8 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:6e40c9,100:1f6feb&height=220&section=header&text=Tony+Teo&fontSize=70&fontColor=ffffff&fontAlignY=35&desc=AI+Engineer+%7C+LLM+Architect+%7C+Open+Source+Contributor&descSize=16&descAlignY=55&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0e27,40:00d4aa,80:0099ff,100:7b2ff7&height=220&section=header&text=Vo+Minh&fontSize=70&fontColor=ffffff&fontAlignY=35&desc=AI+Engineer+%7C+LLM+Architect+%7C+Open+Source+Contributor&descSize=16&descAlignY=55&animation=fadeIn" width="100%"/>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=6E40C9&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=Building+intelligent+AI+agents;Contributing+to+@NousResearch;Open+Source+enthusiast)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00d4aa&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=Building+intelligent+AI+agents;Neural+networks+%26+LLM+architecture;Open+Source+%40NousResearch)](https://git.io/typing-svg)
 
 </div>
 
@@ -15,6 +15,7 @@ name: Vo Minh
 location: Vietnam
 current_focus:
   - AI Agents & LLM Architecture
+  - Neural Networks & Deep Learning
   - Open Source Contributions (@NousResearch/hermes-agent)
   - DeFi & Blockchain (Circle/USDC, ARC Network)
   
@@ -24,7 +25,7 @@ skills:
   infra: [Docker, Kubernetes, AWS, Modal]
   blockchain: [EVM, CCTP, USDC, ARC Network]
   
-fun_fact: "I automated my GitHub contributions so I can focus on building cool stuff 🤖"
+fun_fact: "I automated my GitHub contributions so I can focus on building cool stuff"
 ```
 
 ---
@@ -33,7 +34,7 @@ fun_fact: "I automated my GitHub contributions so I can focus on building cool s
 
 <table>
 <tr>
-<td align="center" width="50%" style="border: 2px solid #6e40c9; border-radius: 8px; padding: 16px;">
+<td align="center" width="50%" style="border: 2px solid #00d4aa; border-radius: 8px; padding: 16px;">
 
 **AI & Machine Learning**
 
@@ -46,7 +47,7 @@ fun_fact: "I automated my GitHub contributions so I can focus on building cool s
 ![DSPy](https://img.shields.io/badge/-DSPy-000000?style=flat-square&logo=dspy&logoColor=white)
 
 </td>
-<td align="center" width="50%" style="border: 2px solid #1f6feb; border-radius: 8px; padding: 16px;">
+<td align="center" width="50%" style="border: 2px solid #0099ff; border-radius: 8px; padding: 16px;">
 
 **Infrastructure & DevOps**
 
@@ -60,7 +61,7 @@ fun_fact: "I automated my GitHub contributions so I can focus on building cool s
 </td>
 </tr>
 <tr>
-<td align="center" width="50%" style="border: 2px solid #2d6a2d; border-radius: 8px; padding: 16px;">
+<td align="center" width="50%" style="border: 2px solid #7b2ff7; border-radius: 8px; padding: 16px;">
 
 **Blockchain & DeFi**
 
@@ -69,7 +70,7 @@ fun_fact: "I automated my GitHub contributions so I can focus on building cool s
 ![Circle](https://img.shields.io/badge/-Circle%2FUSDC-007AFF?style=flat-square&logo=circle&logoColor=white)
 
 </td>
-<td align="center" width="50%" style="border: 2px solid #f59e0b; border-radius: 8px; padding: 16px;">
+<td align="center" width="50%" style="border: 2px solid #00d4aa; border-radius: 8px; padding: 16px;">
 
 **Languages**
 
@@ -87,17 +88,17 @@ fun_fact: "I automated my GitHub contributions so I can focus on building cool s
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=vominh1919&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=6e40c9&icon_color=1f6feb&text_color=c9d1d9&count_private=true" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=vominh1919&show_icons=true&theme=radical&hide_border=true&bg_color=0a0e27&title_color=00d4aa&icon_color=0099ff&text_color=c9d1d9&count_private=true" width="49%"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vominh1919&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=6e40c9&text_color=c9d1d9&langs_count=8" width="39%"/>
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=vominh1919&theme=radical&hide_border=true&background=0d1117&stroke=6e40c9&ring=6e40c9&fire=1f6feb&currStreakLabel=6e40c9" width="70%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vominh1919&layout=compact&theme=radical&hide_border=true&bg_color=0a0e27&title_color=00d4aa&text_color=c9d1d9&langs_count=8" width="39%"/>
 
 <br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=vominh1919&bg_color=0d1117&color=6e40c9&line=1f6feb&point=ffffff&area=true&area_color=6e40c9&hide_border=true" width="90%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=vominh1919&theme=radical&hide_border=true&background=0a0e27&stroke=00d4aa&ring=0099ff&fire=7b2ff7&currStreakLabel=00d4aa" width="70%"/>
+
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=vominh1919&bg_color=0a0e27&color=00d4aa&line=0099ff&point=ffffff&area=true&area_color=00d4aa&hide_border=true" width="90%"/>
 
 </div>
 
@@ -109,7 +110,7 @@ fun_fact: "I automated my GitHub contributions so I can focus on building cool s
 
 | Project | Contribution | Impact |
 |---------|-------------|--------|
-| **@NousResearch/hermes-agent** | 6+ bug fixes (Gemini API, WhatsApp config, Z.AI reasoning, etc.) | Core AI agent framework |
+| **@NousResearch/hermes-agent** | Bug fixes: symlinks, DeepSeek thinking, model migration | Core AI agent framework |
 | **@NousResearch/community-environments** | Created Agriculture Agent Series (5 progressive envs) | RL training environments |
 | **ArcRemit** | Cross-border USDC remittance on ARC Network | DeFi application |
 | **hermes-agent-self-evolution** | Evolutionary self-improvement framework | AI research |
@@ -123,11 +124,11 @@ fun_fact: "I automated my GitHub contributions so I can focus on building cool s
 <div align="center">
 
 <a href="https://github.com/vominh1919/arcremit">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=vominh1919&repo=arcremit&theme=radical&hide_border=true&bg_color=0d1117&title_color=6e40c9&text_color=c9d1d9" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=vominh1919&repo=arcremit&theme=radical&hide_border=true&bg_color=0a0e27&title_color=00d4aa&text_color=c9d1d9" />
 </a>
 
 <a href="https://github.com/vominh1919/hermes-agent-self-evolution">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=vominh1919&repo=hermes-agent-self-evolution&theme=radical&hide_border=true&bg_color=0d1117&title_color=6e40c9&text_color=c9d1d9" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=vominh1919&repo=hermes-agent-self-evolution&theme=radical&hide_border=true&bg_color=0a0e27&title_color=00d4aa&text_color=c9d1d9" />
 </a>
 
 </div>
@@ -147,10 +148,10 @@ fun_fact: "I automated my GitHub contributions so I can focus on building cool s
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=vominh1919&color=6e40c9&style=for-the-badge)
+![Profile Views](https://komarev.com/ghpvc/?username=vominh1919&color=00d4aa&style=for-the-badge)
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:6e40c9,100:1f6feb&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0e27,40:00d4aa,80:0099ff,100:7b2ff7&height=120&section=footer" width="100%"/>
 
 </div>
